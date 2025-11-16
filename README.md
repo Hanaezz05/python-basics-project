@@ -8,7 +8,7 @@ A simple, command-line implementation of the classic game "Rock, Paper, Scissors
 
 * Allows user input for **Rock**, **Paper**, or **Scissors** (case-insensitive).
 * Tracks and displays the score (User vs. Computer).
-* Includes a quit option (**'q'** or **'quit'**) to gracefully exit the game.
+* Includes a quit option (**'q'** ) to gracefully exit the game.
 * Handles invalid input gracefully, prompting the user again.
 * Uses Python's built-in `random` module for computer choice.
 
