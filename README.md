@@ -38,7 +38,7 @@ You need **Python 3** installed on your system to run this script.
 
 1.  When prompted, enter one of the following options: **rock**, **paper**, or **scissors**.
 2.  The game will immediately display the computer's choice, announce the winner, and update the score.
-3.  To end the game at any time, type **q** or **quit**.
+3.  To end the game at any time, type **q** .
 4.  The final win/loss score will be displayed when you quit.
 
 ---
